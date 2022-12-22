@@ -8,7 +8,7 @@ request = PyStella.requestServer
 
 constellation.reset()
 
-stellarium.setFiedOfView(60)
+stellarium.setFieldOfView(60)
 stellarium.setGUIVisible(False)
 time.setTimeUtc(2022, 12, 21, 20, 0, 0)
 stellarium.selectObjectByName(object_name='orion')
@@ -22,8 +22,6 @@ sleep(3)
 stellarium.selectObjectByName(object_name='betelgeuse', mode='zoom')
 sleep(3)
 stellarium.selectObjectByName(object_name='M42', mode='center')
-sleep(2)
-stellarium.setFiedOfView(1)
 sleep(5)
 stellarium.setGUIVisible(True)
-stellarium.setFiedOfView(90)
+stellarium.setFieldOfView(90)
