@@ -1,0 +1,2259 @@
+{
+    "Champ visuel": [
+        {
+            "id": "actionSet_FOV_0",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #0 (0.50°)"
+        },
+        {
+            "id": "actionSet_FOV_1",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #1 (180.00°)"
+        },
+        {
+            "id": "actionSet_FOV_2",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #2 (90.00°)"
+        },
+        {
+            "id": "actionSet_FOV_3",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #3 (60.00°)"
+        },
+        {
+            "id": "actionSet_FOV_4",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #4 (45.00°)"
+        },
+        {
+            "id": "actionSet_FOV_5",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #5 (20.00°)"
+        },
+        {
+            "id": "actionSet_FOV_6",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #6 (10.00°)"
+        },
+        {
+            "id": "actionSet_FOV_7",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #7 (5.00°)"
+        },
+        {
+            "id": "actionSet_FOV_8",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #8 (2.00°)"
+        },
+        {
+            "id": "actionSet_FOV_9",
+            "isCheckable": false,
+            "text": "Définir le champ visuel par défaut #9 (1.00°)"
+        }
+    ],
+    "Commande à distance": [
+        {
+            "id": "actionShow_Remote_Control",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Commande à distance"
+        },
+        {
+            "id": "actionShow_Remote_Control_dialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Configuration commande à distance"
+        }
+    ],
+    "Date et heure": [
+        {
+            "id": "actionIncrease_Time_Speed",
+            "isCheckable": false,
+            "text": "Accélérer le temps"
+        },
+        {
+            "id": "actionDecrease_Time_Speed",
+            "isCheckable": false,
+            "text": "Ralentir le temps"
+        },
+        {
+            "id": "actionIncrease_Time_Speed_Less",
+            "isCheckable": false,
+            "text": "Accélérer le temps (un peu)"
+        },
+        {
+            "id": "actionDecrease_Time_Speed_Less",
+            "isCheckable": false,
+            "text": "Ralentir le temps (un peu)"
+        },
+        {
+            "id": "actionSet_Real_Time_Speed",
+            "isCheckable": false,
+            "text": "Vitesse réelle du temps"
+        },
+        {
+            "id": "actionSet_Time_Rate_Zero",
+            "isCheckable": false,
+            "text": "Arrêter le temps"
+        },
+        {
+            "id": "actionSet_Time_Reverse",
+            "isCheckable": false,
+            "text": "Inverser la direction du temps"
+        },
+        {
+            "id": "actionReturn_To_Current_Time",
+            "isCheckable": false,
+            "text": "Revenir à l'heure actuelle"
+        },
+        {
+            "id": "actionAdd_Solar_Minute",
+            "isCheckable": false,
+            "text": "Ajouter 1 minute solaire"
+        },
+        {
+            "id": "actionAdd_Solar_Hour",
+            "isCheckable": false,
+            "text": "Ajouter 1 heure solaire"
+        },
+        {
+            "id": "actionAdd_Solar_Day",
+            "isCheckable": false,
+            "text": "Ajouter 1 jour solaire"
+        },
+        {
+            "id": "actionAdd_Solar_Week",
+            "isCheckable": false,
+            "text": "Ajouter 7 jours solaires"
+        },
+        {
+            "id": "actionSubtract_Solar_Minute",
+            "isCheckable": false,
+            "text": "Soustraire 1 minute solaire"
+        },
+        {
+            "id": "actionSubtract_Solar_Hour",
+            "isCheckable": false,
+            "text": "Soustraire 1 heure solaire"
+        },
+        {
+            "id": "actionSubtract_Solar_Day",
+            "isCheckable": false,
+            "text": "Soustraire 1 jour solaire"
+        },
+        {
+            "id": "actionSubtract_Solar_Week",
+            "isCheckable": false,
+            "text": "Soustraire 7 jours solaires"
+        },
+        {
+            "id": "actionAdd_Sidereal_Day",
+            "isCheckable": false,
+            "text": "Ajouter 1 jour sidéral"
+        },
+        {
+            "id": "actionAdd_Sidereal_Week",
+            "isCheckable": false,
+            "text": "Ajouter 7 jours sidérals"
+        },
+        {
+            "id": "actionAdd_Sidereal_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année sidérale"
+        },
+        {
+            "id": "actionAdd_Sidereal_Century",
+            "isCheckable": false,
+            "text": "Ajouter 100 années sidérales"
+        },
+        {
+            "id": "actionAdd_Synodic_Month",
+            "isCheckable": false,
+            "text": "Ajouter 1 mois synodique"
+        },
+        {
+            "id": "actionAdd_Saros",
+            "isCheckable": false,
+            "text": "Ajouter 1 saros"
+        },
+        {
+            "id": "actionAdd_Draconic_Month",
+            "isCheckable": false,
+            "text": "Ajouter 1 mois draconitique"
+        },
+        {
+            "id": "actionAdd_Draconic_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année draconitique"
+        },
+        {
+            "id": "actionAdd_Anomalistic_Month",
+            "isCheckable": false,
+            "text": "Ajouter 1 mois anomalistique"
+        },
+        {
+            "id": "actionAdd_Anomalistic_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année anomalistique"
+        },
+        {
+            "id": "actionAdd_Anomalistic_Century",
+            "isCheckable": false,
+            "text": "Ajouter 100 années anomalistiques"
+        },
+        {
+            "id": "actionAdd_Mean_Tropical_Month",
+            "isCheckable": false,
+            "text": "Ajouter 1 mois tropique moyen"
+        },
+        {
+            "id": "actionAdd_Mean_Tropical_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année tropique moyenne"
+        },
+        {
+            "id": "actionAdd_Mean_Tropical_Century",
+            "isCheckable": false,
+            "text": "Ajouter 100 années tropiques moyennes"
+        },
+        {
+            "id": "actionAdd_Tropical_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année tropique"
+        },
+        {
+            "id": "actionAdd_Julian_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année julienne"
+        },
+        {
+            "id": "actionAdd_Julian_Century",
+            "isCheckable": false,
+            "text": "Ajouter 1 siècle julien"
+        },
+        {
+            "id": "actionAdd_Gaussian_Year",
+            "isCheckable": false,
+            "text": "Ajouter 1 année gaussienne"
+        },
+        {
+            "id": "actionAdd_Calendric_Month",
+            "isCheckable": false,
+            "text": "Ajouter 1 mois calendaire"
+        },
+        {
+            "id": "actionSubtract_Sidereal_Day",
+            "isCheckable": false,
+            "text": "Soustraire 1 jour sidéral"
+        },
+        {
+            "id": "actionSubtract_Sidereal_Week",
+            "isCheckable": false,
+            "text": "Enlever 7 jours sidérals"
+        },
+        {
+            "id": "actionSubtract_Sidereal_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année sidérale"
+        },
+        {
+            "id": "actionSubtract_Sidereal_Century",
+            "isCheckable": false,
+            "text": "Soustraire 100 années sidérales"
+        },
+        {
+            "id": "actionSubtract_Synodic_Month",
+            "isCheckable": false,
+            "text": "Soustraire 1 mois synodique"
+        },
+        {
+            "id": "actionSubtract_Saros",
+            "isCheckable": false,
+            "text": "Enlever 1 saros"
+        },
+        {
+            "id": "actionSubtract_Draconic_Month",
+            "isCheckable": false,
+            "text": "Soustraire 1 mois draconitique"
+        },
+        {
+            "id": "actionSubtract_Draconic_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année draconitique"
+        },
+        {
+            "id": "actionSubtract_Anomalistic_Month",
+            "isCheckable": false,
+            "text": "Soustraire 1 mois anomalistique"
+        },
+        {
+            "id": "actionSubtract_Anomalistic_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année anomalistique"
+        },
+        {
+            "id": "actionSubtract_Anomalistic_Century",
+            "isCheckable": false,
+            "text": "Soustraire 100 années anomalistiques"
+        },
+        {
+            "id": "actionSubtract_Mean_Tropical_Month",
+            "isCheckable": false,
+            "text": "Soustraire 1 mois tropique moyen"
+        },
+        {
+            "id": "actionSubtract_Mean_Tropical_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année tropique moyenne"
+        },
+        {
+            "id": "actionSubtract_Mean_Tropical_Century",
+            "isCheckable": false,
+            "text": "Soustraire 100 années tropiques moyennes"
+        },
+        {
+            "id": "actionSubtract_Tropical_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année tropique"
+        },
+        {
+            "id": "actionSubtract_Julian_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année julienne"
+        },
+        {
+            "id": "actionSubtract_Julian_Century",
+            "isCheckable": false,
+            "text": "Soustraire 1 siècle julien"
+        },
+        {
+            "id": "actionSubtract_Gaussian_Year",
+            "isCheckable": false,
+            "text": "Soustraire 1 année gaussienne"
+        },
+        {
+            "id": "actionSubtract_Calendric_Month",
+            "isCheckable": false,
+            "text": "Soustraire 1 mois calendaire"
+        },
+        {
+            "id": "actionIncrease_Script_Speed",
+            "isCheckable": false,
+            "text": "Accélérer la vitesse d'exécution du script"
+        },
+        {
+            "id": "actionDecrease_Script_Speed",
+            "isCheckable": false,
+            "text": "Ralentir la vitesse d'exécution du script"
+        },
+        {
+            "id": "actionSet_Real_Script_Speed",
+            "isCheckable": false,
+            "text": "Exécuter le script à la vitesse normale"
+        },
+        {
+            "id": "actionStop_Script",
+            "isCheckable": false,
+            "text": "Arrêter l'exécution du script"
+        }
+    ],
+    "Divers": [
+        {
+            "id": "actionSwitch_Equatorial_Mount",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Inverser la monture équatoriale/azimutale"
+        },
+        {
+            "id": "actionSave_Screenshot_Global",
+            "isCheckable": false,
+            "text": "Enregistrer une capture d'écran"
+        },
+        {
+            "id": "actionReload_Shaders",
+            "isCheckable": false,
+            "text": "Recharger les shaders (développement)"
+        },
+        {
+            "id": "actionQuit_Global",
+            "isCheckable": false,
+            "text": "Quitter"
+        },
+        {
+            "id": "actionSave_Copy_Object_Information_Global",
+            "isCheckable": false,
+            "text": "Copier dans le presse-papier les informations de l'objet sélectionné"
+        },
+        {
+            "id": "actionAutoHideHorizontalButtonBar",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Cacher automatiquement la barre de boutons horizontale"
+        },
+        {
+            "id": "actionAutoHideVerticalButtonBar",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Cacher automatiquement la barre de boutons verticale"
+        },
+        {
+            "id": "actionToggle_GuiHidden_Global",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Afficher l'interface graphique"
+        }
+    ],
+    "Exoplanètes": [
+        {
+            "id": "actionShow_Exoplanets",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher les exoplanètes"
+        },
+        {
+            "id": "actionShow_Exoplanets_ConfigDialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher la fenêtre des réglages"
+        }
+    ],
+    "Fenêtres": [
+        {
+            "id": "actionShow_ScriptConsole_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Fenêtre de script"
+        },
+        {
+            "id": "actionShow_Help_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Aide"
+        },
+        {
+            "id": "actionShow_Configuration_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Configuration générale"
+        },
+        {
+            "id": "actionShow_Search_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Recherche"
+        },
+        {
+            "id": "actionShow_SkyView_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Affichage"
+        },
+        {
+            "id": "actionShow_DateTime_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Date et heure"
+        },
+        {
+            "id": "actionShow_Location_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Situation"
+        },
+        {
+            "id": "actionShow_Shortcuts_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Fenêtre de raccourcis"
+        },
+        {
+            "id": "actionShow_AstroCalc_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Calculs astronomiques"
+        },
+        {
+            "id": "actionShow_ObsList_Window_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Liste d'observation"
+        }
+    ],
+    "Informations sur l'objet sélectionné": [
+        {
+            "id": "actionDisplayInfo_All",
+            "isCheckable": false,
+            "text": "All available info"
+        },
+        {
+            "id": "actionDisplayInfo_Default",
+            "isCheckable": false,
+            "text": "Default info"
+        },
+        {
+            "id": "actionDisplayInfo_Short",
+            "isCheckable": false,
+            "text": "Short info"
+        },
+        {
+            "id": "actionDisplayInfo_None",
+            "isCheckable": false,
+            "text": "None info"
+        },
+        {
+            "id": "actionDisplayInfo_Custom",
+            "isCheckable": false,
+            "text": "Custom info"
+        }
+    ],
+    "Mouvement et sélection": [
+        {
+            "id": "actionGoto_Selected_Object",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Centrer sur l'objet sélectionné"
+        },
+        {
+            "id": "actionGoto_Deselection",
+            "isCheckable": false,
+            "text": "Désélectionner l'objet sélectionné"
+        },
+        {
+            "id": "actionZoom_In_Auto",
+            "isCheckable": false,
+            "text": "Zoom sur l'objet sélectionné"
+        },
+        {
+            "id": "actionZoom_Out_Auto",
+            "isCheckable": false,
+            "text": "Zoom arrière"
+        },
+        {
+            "id": "actionSet_Tracking",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Suivre l'objet"
+        },
+        {
+            "id": "actionLook_Towards_East",
+            "isCheckable": false,
+            "text": "Regarder vers l'Est"
+        },
+        {
+            "id": "actionLook_Towards_West",
+            "isCheckable": false,
+            "text": "Regarder vers l'Ouest"
+        },
+        {
+            "id": "actionLook_Towards_North",
+            "isCheckable": false,
+            "text": "Regarder vers le Nord"
+        },
+        {
+            "id": "actionLook_Towards_South",
+            "isCheckable": false,
+            "text": "Regarder vers le Sud"
+        },
+        {
+            "id": "actionLook_Towards_Zenith",
+            "isCheckable": false,
+            "text": "Regarder vers le zénith"
+        },
+        {
+            "id": "actionLook_Towards_NCP",
+            "isCheckable": false,
+            "text": "Regarder vers le Pôle Nord céleste"
+        },
+        {
+            "id": "actionLook_Towards_SCP",
+            "isCheckable": false,
+            "text": "Regarder vers le Pôle Sud céleste"
+        },
+        {
+            "id": "actionSet_Home_Planet_To_Selected",
+            "isCheckable": false,
+            "text": "Définir la planète actuelle comme planète par défaut"
+        },
+        {
+            "id": "actionGo_Home_Global",
+            "isCheckable": false,
+            "text": "Retour à la situation de démarrage"
+        }
+    ],
+    "Novæ lumineuses": [
+        {
+            "id": "actionShow_Novae_ConfigDialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Configuration du plugin Novæ"
+        }
+    ],
+    "Oculaires": [
+        {
+            "id": "actionShow_Oculars",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Vue oculaire"
+        },
+        {
+            "id": "actionShow_Ocular_Menu",
+            "isCheckable": false,
+            "text": "Menu contextuel des oculaires"
+        },
+        {
+            "id": "actionShow_Ocular_Crosshairs",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher le réticule"
+        },
+        {
+            "id": "actionShow_Sensor",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Cadre du capteur CCD"
+        },
+        {
+            "id": "actionShow_Telrad",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Mire Telrad"
+        },
+        {
+            "id": "actionShow_Oculars_dialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher la fenêtre des réglages"
+        },
+        {
+            "id": "actionShow_Oculars_GUI",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Afficher le bouton Oculaires"
+        },
+        {
+            "id": "actionShow_Telescope_Increment",
+            "isCheckable": false,
+            "text": "Télescope suivant"
+        },
+        {
+            "id": "actionShow_Telescope_Decrement",
+            "isCheckable": false,
+            "text": "Télescope précédent"
+        },
+        {
+            "id": "actionShow_Ocular_Increment",
+            "isCheckable": false,
+            "text": "Oculaire suivant"
+        },
+        {
+            "id": "actionShow_Ocular_Decrement",
+            "isCheckable": false,
+            "text": "Oculaire précédent"
+        },
+        {
+            "id": "actionShow_Ocular_Rotate_Reticle_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le réticule de l'oculaire dans le sens horaire"
+        },
+        {
+            "id": "actionShow_Ocular_Rotate_Reticle_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le réticule de l'oculaire dans le sens antihoraire"
+        },
+        {
+            "id": "actionShow_Sensor_Crop_Overlay",
+            "isCheckable": false,
+            "text": "Afficher le cadrage du capteur"
+        },
+        {
+            "id": "actionShow_Sensor_Pixel_Grid",
+            "isCheckable": false,
+            "text": "Afficher la grille de pixels du capteur"
+        },
+        {
+            "id": "actionShow_Sensor_Focuser_Overlay",
+            "isCheckable": false,
+            "text": "Afficher le focaliseur"
+        },
+        {
+            "id": "actionToggle_Oculars_Previous_Ocular",
+            "isCheckable": false,
+            "text": "Oculaire précédent"
+        },
+        {
+            "id": "actionToggle_Oculars_Next_Ocular",
+            "isCheckable": false,
+            "text": "Oculaire suivant"
+        },
+        {
+            "id": "actionToggle_Oculars_Previous_Lens",
+            "isCheckable": false,
+            "text": "Lentille précédente"
+        },
+        {
+            "id": "actionToggle_Oculars_Next_Lens",
+            "isCheckable": false,
+            "text": "Lentille suivante"
+        },
+        {
+            "id": "actionToggle_Oculars_Previous_CCD",
+            "isCheckable": false,
+            "text": "CCD précédent"
+        },
+        {
+            "id": "actionToggle_Oculars_Next_CCD",
+            "isCheckable": false,
+            "text": "CCD suivant"
+        },
+        {
+            "id": "actionToggle_Oculars_Previous_Telescope",
+            "isCheckable": false,
+            "text": "Télescope précédent"
+        },
+        {
+            "id": "actionToggle_Oculars_Next_Telescope",
+            "isCheckable": false,
+            "text": "Télescope suivant"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_Reset",
+            "isCheckable": false,
+            "text": "Réinitialiser la rotation du cadre du capteur"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_15_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 15 degrés dans le sens antihoraire"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_5_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 5 degrés dans le sens antihoraire"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_1_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 1 degré dans le sens antihoraire"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_15_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 15 degrés vers la droite"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_5_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 5 degrés vers la droite"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Frame_1_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le cadre du capteur de 1 degré dans le sens horaire"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_Reset",
+            "isCheckable": false,
+            "text": "Réinitialiser la rotation du prisme"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_15_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 15 degrés (sens anti-horaire)"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_5_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 5 degrés (sens anti-horaire)"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_1_Counterclockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 1 degré (sens anti-horaire)"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_15_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 15 degrés (sens horaire)"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_5_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 5 degrés (sens horaire)"
+        },
+        {
+            "id": "actionToggle_Oculars_Rotate_Prism_1_Clockwise",
+            "isCheckable": false,
+            "text": "Tourner le prisme de 1 degré (sens horaire)"
+        }
+    ],
+    "Options d'affichage": [
+        {
+            "id": "actionShow_Hips_Surveys",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Activer les relevés hiérarchiques progressifs"
+        },
+        {
+            "id": "actionShow_Planets",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Planètes"
+        },
+        {
+            "id": "actionShow_Planets_Labels",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Noms des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Orbits",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Orbites des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Trails",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Trajectoires des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Trails_Reset",
+            "isCheckable": false,
+            "text": "Réinitialiser les trajectoires des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Hints",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Marqueurs des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Pointers",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Marqueur de sélection de planète"
+        },
+        {
+            "id": "actionShow_Planets_EnlargeMoon",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Augmenter la taille de la Lune"
+        },
+        {
+            "id": "actionShow_Planets_EnlargeMinor",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Augmenter la taille des corps mineurs"
+        },
+        {
+            "id": "actionShow_Planets_EnlargePlanets",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Agrandir les planètes"
+        },
+        {
+            "id": "actionShow_Planets_EnlargeSun",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Agrandir le Soleil"
+        },
+        {
+            "id": "actionShow_Skyculture_NativePlanetNames",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Noms localisés des planètes"
+        },
+        {
+            "id": "actionShow_Planets_Nomenclature",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Noms des nomenclatures"
+        },
+        {
+            "id": "actionShow_Planets_Nomenclature_SpecialPoints_Only",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Special nomenclature points only"
+        },
+        {
+            "id": "actionShow_Stars",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Étoiles"
+        },
+        {
+            "id": "actionShow_Stars_Labels",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Noms des étoiles"
+        },
+        {
+            "id": "actionShow_Stars_MagnitudeLimitIncrease",
+            "isCheckable": false,
+            "text": "Augmenter la limite de magnitude pour les étoiles"
+        },
+        {
+            "id": "actionShow_Stars_MagnitudeLimitReduce",
+            "isCheckable": false,
+            "text": "Réduire la limite de magnitude pour les étoiles"
+        },
+        {
+            "id": "actionHorizontal_Flip",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Miroir horizontal"
+        },
+        {
+            "id": "actionVertical_Flip",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Miroir vertical"
+        },
+        {
+            "id": "actionShow_Nebulas",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Objets du ciel profond"
+        },
+        {
+            "id": "actionSet_Nebula_TypeFilterUsage",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Activer le filtre DSO"
+        },
+        {
+            "id": "actionShow_MilkyWay",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Voie Lactée"
+        },
+        {
+            "id": "actionShow_ZodiacalLight",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Lumière zodiacale"
+        },
+        {
+            "id": "actionShow_DSO_Textures",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Images des objets du ciel profond"
+        },
+        {
+            "id": "actionShow_DSO_Textures_Reload",
+            "isCheckable": false,
+            "text": "Recharger les images d'arrière plan des objets du ciel profond"
+        },
+        {
+            "id": "actionShow_Toast_Survey",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Digitized Sky Survey (TOAST)"
+        },
+        {
+            "id": "actionShow_Constellation_Lines",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Lignes des constellations"
+        },
+        {
+            "id": "actionShow_Constellation_Art",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Dessins des constellations"
+        },
+        {
+            "id": "actionShow_Constellation_Labels",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Noms des constellations"
+        },
+        {
+            "id": "actionShow_Constellation_Boundaries",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Délimitations des constellations"
+        },
+        {
+            "id": "actionShow_Constellation_Isolated",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Sélection des constellations une par une"
+        },
+        {
+            "id": "actionShow_Constellation_Deselect",
+            "isCheckable": false,
+            "text": "Retirer selection of constellations"
+        },
+        {
+            "id": "actionShow_Constellation_Select",
+            "isCheckable": false,
+            "text": "Sélectionner toutes les constellations"
+        },
+        {
+            "id": "actionShow_Starlore_Reload",
+            "isCheckable": false,
+            "text": "Recharger la culture céleste"
+        },
+        {
+            "id": "actionShow_Asterism_Lines",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Lignes des astérismes"
+        },
+        {
+            "id": "actionShow_Asterism_Labels",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Noms des astérismes"
+        },
+        {
+            "id": "actionShow_Asterism_Isolated",
+            "isCheckable": false,
+            "text": "Sélection des astérismes un par un"
+        },
+        {
+            "id": "actionShow_Ray_Helpers",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Lignes guides"
+        },
+        {
+            "id": "actionShow_Atmosphere",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Atmosphère"
+        },
+        {
+            "id": "actionShow_Fog",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Brume"
+        },
+        {
+            "id": "actionShow_Cardinal_Points",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Points cardinaux"
+        },
+        {
+            "id": "actionShow_Intercardinal_Points",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Points ordinaux (intercardinaux)"
+        },
+        {
+            "id": "actionShow_Secondary_Intercardinal_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points intercardinaux secondaires"
+        },
+        {
+            "id": "actionShow_Ground",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Sol"
+        },
+        {
+            "id": "actionShow_LandscapeIllumination",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Illumination du paysage"
+        },
+        {
+            "id": "actionShow_LandscapeLabels",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Légende du paysage"
+        },
+        {
+            "id": "actionShow_LightPollutionFromDatabase",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pollution lumineuse tirées de la base de données des lieux"
+        },
+        {
+            "id": "actionShow_LightPollutionIncrease",
+            "isCheckable": false,
+            "text": "Augmenter la pollution lumineuse"
+        },
+        {
+            "id": "actionShow_LightPollutionReduce",
+            "isCheckable": false,
+            "text": "Réduire la pollution lumineuse"
+        },
+        {
+            "id": "actionShow_LightPollutionCyclicChange",
+            "isCheckable": false,
+            "text": "Changement cyclique de la pollution lumineuse"
+        },
+        {
+            "id": "actionShow_Gridlines",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Grilles et lignes"
+        },
+        {
+            "id": "actionShow_Equatorial_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille équatoriale"
+        },
+        {
+            "id": "actionShow_Fixed_Equatorial_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille équatoriale fixe"
+        },
+        {
+            "id": "actionShow_Azimuthal_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille azimutale"
+        },
+        {
+            "id": "actionShow_Ecliptic_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne de l'écliptique"
+        },
+        {
+            "id": "actionShow_Ecliptic_J2000_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Écliptique (J2000.0)"
+        },
+        {
+            "id": "actionShow_Invariable_Plane_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne du plan invariable"
+        },
+        {
+            "id": "actionShow_Solar_Equator_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne du plan équatorial solaire"
+        },
+        {
+            "id": "actionShow_Equator_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne de l'équateur"
+        },
+        {
+            "id": "actionShow_Equator_J2000_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Équateur (J2000.0)"
+        },
+        {
+            "id": "actionShow_Fixed_Equator_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne équatoriale fixe"
+        },
+        {
+            "id": "actionShow_Meridian_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne méridienne"
+        },
+        {
+            "id": "actionShow_Horizon_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne d'horizon"
+        },
+        {
+            "id": "actionShow_Equatorial_J2000_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille équatoriale J2000"
+        },
+        {
+            "id": "actionShow_Ecliptic_J2000_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille écliptique J2000"
+        },
+        {
+            "id": "actionShow_Ecliptic_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille écliptique"
+        },
+        {
+            "id": "actionShow_Galactic_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille galactique"
+        },
+        {
+            "id": "actionShow_Galactic_Equator_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Équateur galactique"
+        },
+        {
+            "id": "actionShow_Supergalactic_Grid",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Grille supergalactique"
+        },
+        {
+            "id": "actionShow_Supergalactic_Equator_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Équateur supergalactique"
+        },
+        {
+            "id": "actionShow_Longitude_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Ligne de longitude d'opposition/conjonction"
+        },
+        {
+            "id": "actionShow_Quadrature_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Quadrature line"
+        },
+        {
+            "id": "actionShow_Precession_Circles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Cercles de précession"
+        },
+        {
+            "id": "actionShow_Prime_Vertical_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Premier vertical"
+        },
+        {
+            "id": "actionShow_Current_Vertical_Line",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Vertical actuel"
+        },
+        {
+            "id": "actionShow_Colure_Lines",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Colures"
+        },
+        {
+            "id": "actionShow_Circumpolar_Circles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Cercles circumpolaires"
+        },
+        {
+            "id": "actionShow_Umbra_Circle",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Cercle d'ombre"
+        },
+        {
+            "id": "actionShow_Penumbra_Circle",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Cercle de pénombre"
+        },
+        {
+            "id": "actionShow_Celestial_J2000_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles célestes J2000"
+        },
+        {
+            "id": "actionShow_Celestial_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles célestes"
+        },
+        {
+            "id": "actionShow_Zenith_Nadir",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Zénith et nadir"
+        },
+        {
+            "id": "actionShow_Ecliptic_J2000_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles de l'écliptique J2000"
+        },
+        {
+            "id": "actionShow_Ecliptic_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles de l'écliptique"
+        },
+        {
+            "id": "actionShow_Galactic_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles galactiques"
+        },
+        {
+            "id": "actionShow_Galactic_Center",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Centre et anti-centre galactiques"
+        },
+        {
+            "id": "actionShow_Supergalactic_Poles",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Pôles supergalactiques"
+        },
+        {
+            "id": "actionShow_Equinox_J2000_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points équinoxiaux J2000"
+        },
+        {
+            "id": "actionShow_Equinox_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points équinoxiaux"
+        },
+        {
+            "id": "actionShow_Solstice_J2000_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points solsticiaux J2000"
+        },
+        {
+            "id": "actionShow_Solstice_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points solsticiaux"
+        },
+        {
+            "id": "actionShow_Antisolar_Point",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Point anti-solaire"
+        },
+        {
+            "id": "actionShow_Umbra_Center_Point",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Le centre de l'ombre de la Terre"
+        },
+        {
+            "id": "actionShow_Apex_Points",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Points d'apex"
+        },
+        {
+            "id": "actionShow_FOV_Center_Marker",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Marqueur du centre du champ visuel"
+        },
+        {
+            "id": "actionShow_FOV_Circular_Marker",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Marqueur circulaire du champ visuel"
+        },
+        {
+            "id": "actionShow_FOV_Rectangular_Marker",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Marqueur rectangulaire du champ visuel"
+        },
+        {
+            "id": "actionShow_Compass_Marks",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Graduation azimutale"
+        },
+        {
+            "id": "actionShow_Night_Mode",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Mode nuit"
+        },
+        {
+            "id": "actionSet_Full_Screen_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Mode plein écran"
+        }
+    ],
+    "Pluies de météores": [
+        {
+            "id": "actionShow_MeteorShowers",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Afficher les pluies de météores"
+        },
+        {
+            "id": "actionShow_MeteorShowers_labels",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Afficher les noms des radiants"
+        },
+        {
+            "id": "actionShow_MeteorShowers_config_dialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher la fenêtre des réglages"
+        },
+        {
+            "id": "actionShow_MeteorShowers_search_dialog",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher la fenêtre de recherche des pluies de météores"
+        }
+    ],
+    "Satellites": [
+        {
+            "id": "actionShow_Satellite_Hints",
+            "isCheckable": true,
+            "isChecked": true,
+            "text": "Satellites artiticiels"
+        },
+        {
+            "id": "actionShow_Satellite_Labels",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Noms des satellites"
+        },
+        {
+            "id": "actionShow_Satellite_ConfigDialog_Global",
+            "isCheckable": true,
+            "isChecked": false,
+            "text": "Afficher la fenêtre des réglages"
+        },
+        {
+            "id": "actionShow_Satellite_Group_amateur",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Radio-amateurs\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_amateur",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Radio-amateurs\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_beidou",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"beidou\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_beidou",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"beidou\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_communications",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Communications\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_communications",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Communications\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_cosmos",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"cosmos\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_cosmos",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"cosmos\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_crewed",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"crewed\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_crewed",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"crewed\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_debris",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"debris\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_debris",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"debris\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_earth resources",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"ressources terrestres\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_earth resources",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"ressources terrestres\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_education",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Éducation\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_education",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Éducation\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_galileo",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Galileo\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_galileo",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Galileo\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_geodetic",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"géodésique\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_geodetic",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"géodésique\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_geostationary",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Géostationnaires\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_geostationary",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Géostationnaires\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_glo-ops",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"glo-ops\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_glo-ops",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"glo-ops\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_globalstar",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"globalstar\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_globalstar",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"globalstar\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_glonass",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"GLONASS\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_glonass",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"GLONASS\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_gnss",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"gnss\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_gnss",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"gnss\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_gorizont",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"gorizont\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_gorizont",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"gorizont\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_gps",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"GPS\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_gps",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"GPS\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_gps-ops",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"gps-ops\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_gps-ops",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"gps-ops\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_intelsat",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"intelsat\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_intelsat",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"intelsat\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_iridium",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Iridium\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_iridium",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Iridium\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_iridium next",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"iridium next\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_iridium next",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"iridium next\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_irnss",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"irnss\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_irnss",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"irnss\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_military",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"militaire\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_military",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"militaire\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_molniya",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"molniya\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_molniya",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"molniya\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_navigation",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Navigation\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_navigation",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Navigation\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_non-operational",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Non opérationnels\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_non-operational",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Non opérationnels\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_observatory",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Observatoire\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_observatory",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Observatoire\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_oneweb",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"oneweb\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_oneweb",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"oneweb\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_orbcomm",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"orbcomm\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_orbcomm",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"orbcomm\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_qzss",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"qzss\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_qzss",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"qzss\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_raduga",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"raduga\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_raduga",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"raduga\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_resupply",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"resupply\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_resupply",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"resupply\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_science",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"science\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_science",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"science\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_scientific",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Scientifiques\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_scientific",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Scientifiques\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_spire",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"spore\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_spire",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"spore\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_starlink",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"starlink\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_starlink",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"starlink\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_stations",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Stations\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_stations",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Stations\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_tdrss",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"tdrss\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_tdrss",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"tdrss\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_tv",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"tv\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_tv",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"tv\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_visual",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Visibles\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_visual",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Visibles\""
+        },
+        {
+            "id": "actionShow_Satellite_Group_weather",
+            "isCheckable": false,
+            "text": "Afficher les satellites du groupe \"Météo\""
+        },
+        {
+            "id": "actionHide_Satellite_Group_weather",
+            "isCheckable": false,
+            "text": "Cacher les satellites du groupe \"Météo\""
+        }
+    ],
+    "Scripts": [
+        {
+            "id": "actionScript/bennett.ssc",
+            "isCheckable": false,
+            "text": "Catalogue Jack Bennett"
+        },
+        {
+            "id": "actionScript/double_stars.ssc",
+            "isCheckable": false,
+            "text": "20 étoiles doubles sympa visibles à l'œil nu"
+        },
+        {
+            "id": "actionScript/earth_6.ssc",
+            "isCheckable": false,
+            "text": "Les plus impressionnantes élongations et transits de la Terre et de Mars, vues de Callisto"
+        },
+        {
+            "id": "actionScript/messier_marathon.ssc",
+            "isCheckable": false,
+            "text": "Marathon Messier"
+        },
+        {
+            "id": "actionScript/phobos_phun_1.ssc",
+            "isCheckable": false,
+            "text": "Éclipse double depuis Déimos en 2017"
+        },
+        {
+            "id": "actionScript/phobos_phun_4.ssc",
+            "isCheckable": false,
+            "text": "Occultation de la Terre et Jupiter en 2048"
+        },
+        {
+            "id": "actionScript/solar_system_screensaver.ssc",
+            "isCheckable": false,
+            "text": "Écran de veille du Système solaire"
+        },
+        {
+            "id": "actionScript/morsels_2.ssc",
+            "isCheckable": false,
+            "text": "Jupiter sans les satellites Galiléens"
+        },
+        {
+            "id": "actionScript/uranian_analemma.ssc",
+            "isCheckable": false,
+            "text": "Analemme uranienne"
+        },
+        {
+            "id": "actionScript/triple_sunrise_and_sunsets.ssc",
+            "isCheckable": false,
+            "text": "Triple lever et coucher de Soleil sur Mercure"
+        },
+        {
+            "id": "actionScript/sun.ssc",
+            "isCheckable": false,
+            "text": "Le Soleil depuis différentes planètes"
+        },
+        {
+            "id": "actionScript/lunar_partial.ssc",
+            "isCheckable": false,
+            "text": "Éclipse de Lune partielle"
+        },
+        {
+            "id": "actionScript/binocular_highlights.ssc",
+            "isCheckable": false,
+            "text": "Objets marquants aux jumelles"
+        },
+        {
+            "id": "actionScript/transit_of_venus.ssc",
+            "isCheckable": false,
+            "text": "Transit de Vénus"
+        },
+        {
+            "id": "actionScript/phobos_phun_3.ssc",
+            "isCheckable": false,
+            "text": "Éclipse depuis le Olympus Mons le 2 janvier 2021"
+        },
+        {
+            "id": "actionScript/planets_tour.ssc",
+            "isCheckable": false,
+            "text": "Visite des planètes"
+        },
+        {
+            "id": "actionScript/earth_5.ssc",
+            "isCheckable": false,
+            "text": "Plus grandes élongations et oppositions de la Terre et d'autres planètes, vues de Mars"
+        },
+        {
+            "id": "actionScript/screensaver.ssc",
+            "isCheckable": false,
+            "text": "Écran de veille"
+        },
+        {
+            "id": "actionScript/morsels_1.ssc",
+            "isCheckable": false,
+            "text": "Jupiter et phénomène de l'ombre triple"
+        },
+        {
+            "id": "actionScript/sky_cultures.ssc",
+            "isCheckable": false,
+            "text": "Tour des cultures célestes"
+        },
+        {
+            "id": "actionScript/h400_tour.ssc",
+            "isCheckable": false,
+            "text": "Herschel 400"
+        },
+        {
+            "id": "actionScript/zodiac.ssc",
+            "isCheckable": false,
+            "text": "Zodiaque"
+        },
+        {
+            "id": "actionScript/analemma.ssc",
+            "isCheckable": false,
+            "text": "Analemme"
+        },
+        {
+            "id": "actionScript/random_location.ssc",
+            "isCheckable": false,
+            "text": "Position aléatoire"
+        },
+        {
+            "id": "actionScript/landscapes.ssc",
+            "isCheckable": false,
+            "text": "Visite des paysages"
+        },
+        {
+            "id": "actionScript/earth_7.ssc",
+            "isCheckable": false,
+            "text": "La Terre et autres planètes, vues de Cérès"
+        },
+        {
+            "id": "actionScript/supernova.ssc",
+            "isCheckable": false,
+            "text": "Supernova de Tycho"
+        },
+        {
+            "id": "actionScript/western_constellations_tour.ssc",
+            "isCheckable": false,
+            "text": "Visite des constellations occidentales"
+        },
+        {
+            "id": "actionScript/earth_1.ssc",
+            "isCheckable": false,
+            "text": "Meilleures vues de la Terre depuis d'autres corps célestes"
+        },
+        {
+            "id": "actionScript/morsels_3.ssc",
+            "isCheckable": false,
+            "text": "Occultations d'étoiles brillantes par des planètes"
+        },
+        {
+            "id": "actionScript/earth_3.ssc",
+            "isCheckable": false,
+            "text": "Événements terrestres vus d'une ville flottante sur Vénus"
+        },
+        {
+            "id": "actionScript/best_ngc.ssc",
+            "isCheckable": false,
+            "text": "Plus beaux objets du catalogue NGC"
+        },
+        {
+            "id": "actionScript/solar_eclipse.ssc",
+            "isCheckable": false,
+            "text": "Éclipse solaire de 2009"
+        },
+        {
+            "id": "actionScript/phobos_phun_2.ssc",
+            "isCheckable": false,
+            "text": "Éclipse double depuis Déimos en 2031"
+        },
+        {
+            "id": "actionScript/phobos_phun_5.ssc",
+            "isCheckable": false,
+            "text": "3 transits et 2 éclipses vues de Deimos en 2027"
+        },
+        {
+            "id": "actionScript/constellations_tour.ssc",
+            "isCheckable": false,
+            "text": "Visite des constellations"
+        },
+        {
+            "id": "actionScript/earth_2.ssc",
+            "isCheckable": false,
+            "text": "Événements terrestres vus de Mercure"
+        },
+        {
+            "id": "actionScript/binosky.ssc",
+            "isCheckable": false,
+            "text": "Binosky : objets du ciel profond aux jumelles"
+        },
+        {
+            "id": "actionScript/earth_4.ssc",
+            "isCheckable": false,
+            "text": "Événements terrestres vus de Mars"
+        },
+        {
+            "id": "actionScript/largest_known_stars.ssc",
+            "isCheckable": false,
+            "text": "Liste des plus grandes étoiles connues"
+        },
+        {
+            "id": "actionScript/saturnian_analemma.ssc",
+            "isCheckable": false,
+            "text": "Analemme saturnienne"
+        },
+        {
+            "id": "actionScript/martian_analemma.ssc",
+            "isCheckable": false,
+            "text": "Analemme martienne"
+        },
+        {
+            "id": "actionScript/skybox.ssc",
+            "isCheckable": false,
+            "text": "Faces de cube (Skybox)"
+        },
+        {
+            "id": "actionScript/startup.ssc",
+            "isCheckable": false,
+            "text": "Script de démarrage"
+        },
+        {
+            "id": "actionScript/morsels_4.ssc",
+            "isCheckable": false,
+            "text": "Occultations mutuelles de planètes"
+        },
+        {
+            "id": "actionScript/lunar_total.ssc",
+            "isCheckable": false,
+            "text": "Éclipse de Lune totale"
+        },
+        {
+            "id": "actionScript/messier_tour.ssc",
+            "isCheckable": false,
+            "text": "Visite des objets de Messier"
+        }
+    ],
+    "Specific Time": [
+        {
+            "id": "actionNext_Transit",
+            "isCheckable": false,
+            "text": "Prochaine culmination de l'objet sélectionné"
+        },
+        {
+            "id": "actionNext_Rising",
+            "isCheckable": false,
+            "text": "Prochain lever de l'objet sélectionné"
+        },
+        {
+            "id": "actionNext_Setting",
+            "isCheckable": false,
+            "text": "Prochain coucher de l'objet sélectionné"
+        },
+        {
+            "id": "actionToday_Transit",
+            "isCheckable": false,
+            "text": "Culmination d'aujourd'hui de l'objet sélectionné"
+        },
+        {
+            "id": "actionToday_Rising",
+            "isCheckable": false,
+            "text": "Lever d'aujourd'hui de l'objet sélectionné"
+        },
+        {
+            "id": "actionToday_Setting",
+            "isCheckable": false,
+            "text": "Coucher d'aujourd'hui de l'objet sélectionné"
+        },
+        {
+            "id": "actionPrevious_Transit",
+            "isCheckable": false,
+            "text": "Culmination précédente de l'objet sélectionné"
+        },
+        {
+            "id": "actionPrevious_Rising",
+            "isCheckable": false,
+            "text": "Lever précédent de l'objet sélectionné"
+        },
+        {
+            "id": "actionPrevious_Setting",
+            "isCheckable": false,
+            "text": "Coucher précédent de l'objet sélectionné"
+        },
+        {
+            "id": "actionNext_MorningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du matin suivant"
+        },
+        {
+            "id": "actionNext_EveningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du soir suivant"
+        },
+        {
+            "id": "actionToday_MorningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du matin d'aujourd'hui"
+        },
+        {
+            "id": "actionToday_EveningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du soir d'aujourd'hui"
+        },
+        {
+            "id": "actionPrevious_MorningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du matin précédent"
+        },
+        {
+            "id": "actionPrevious_EveningTwilight",
+            "isCheckable": false,
+            "text": "Crépuscule du soir précédent"
+        },
+        {
+            "id": "actionNext_MorningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude at next morning"
+        },
+        {
+            "id": "actionToday_MorningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude this morning"
+        },
+        {
+            "id": "actionPrevious_MorningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude at previous morning"
+        },
+        {
+            "id": "actionNext_EveningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude at next evening"
+        },
+        {
+            "id": "actionToday_EveningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude this evening"
+        },
+        {
+            "id": "actionPrevious_EveningAtAltitude",
+            "isCheckable": false,
+            "text": "Selected object at altitude at previous evening"
+        },
+        {
+            "id": "actionCurrent_March_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de mars de cette année"
+        },
+        {
+            "id": "actionNext_March_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de mars de l'année prochaine"
+        },
+        {
+            "id": "actionPrevious_March_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de mars de l'année passée"
+        },
+        {
+            "id": "actionCurrent_September_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de septembre de cette année"
+        },
+        {
+            "id": "actionNext_September_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de septembre de l'année prochaine"
+        },
+        {
+            "id": "actionPrevious_September_Equinox",
+            "isCheckable": false,
+            "text": "Équinoxe de septembre de l'année passée"
+        },
+        {
+            "id": "actionCurrent_June_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de juin de cette année"
+        },
+        {
+            "id": "actionNext_June_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de juin de l'année prochaine"
+        },
+        {
+            "id": "actionPrevious_June_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de juin de l'année passée"
+        },
+        {
+            "id": "actionCurrent_December_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de décembre de cette année"
+        },
+        {
+            "id": "actionNext_December_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de décembre de l'année prochaine"
+        },
+        {
+            "id": "actionPrevious_December_Solstice",
+            "isCheckable": false,
+            "text": "Solstice de décembre de l'année passée"
+        }
+    ],
+    "Éditeur du système solaire": [
+        {
+            "id": "actionShow_MPC_Import",
+            "isCheckable": false,
+            "text": "Importation des paramètres orbitaux en format MPC…"
+        }
+    ]
+}
