@@ -15,5 +15,8 @@ class pyStellaServer:
     def setGUIVisible(self, gui_visible=True):
         r = self.requestServer.post('stelproperty/set', {'id': 'StelGui.visible', 'value': str(gui_visible)})
 
-    def selectObjectByName(self, object_name, mode='center'):  # mode = 'center' par défaut ou 'zoom'
+    def selectObjectByName(self, object_name=None, mode='center'):  # mode = 'center' par défaut ou 'zoom'
         r = self.requestServer.post('main/focus', {'target': object_name, 'mode': mode})
+    def unselectObject(self):
+        r = self.requestServer.post('main/focus', {})
+        return r
