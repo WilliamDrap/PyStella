@@ -6,8 +6,13 @@ class pyStellaConstellationClass:
         self.art_displayed = False
         self.isolate_selected = False
 
-    def reset_property(self):
-        self.set_property(False,False,False)
+    def reset_all_property(self):
+        self.set_property(False, False, False)
+        self.unselect()
+
+    def unselect(self):
+        r = self.requestServer.post(service='stelaction/do',
+                                    data={'id': 'actionShow_Constellation_Deselect'})
 
     def lineDisplayed(self, displayed=False):
         r = self.requestServer.post('stelproperty/set',
@@ -32,4 +37,3 @@ class pyStellaConstellationClass:
         if artdisplayed is not None:
             self.artDisplayed(artdisplayed)
             self.art_displayed = artdisplayed
-

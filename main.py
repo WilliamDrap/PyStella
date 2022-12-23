@@ -6,28 +6,24 @@ stellarium = PyStella.pyStellarium
 constellation = PyStella.pyStellaConstellation
 request = PyStella.requestServer
 
-constellation.reset_property()
-request.post('http://localhost:8090/api/main/focus')
-print(constellation.isolate_selected)
-time.setTimeNow()
-stellarium.setFieldOfView(60)
-stellarium.setGUIVisible(False)
-stellarium.selectObjectByName(object_name='orion')
+constellation.reset_all_property()
+
+time.setTimeUtc(2022, 12, 23, 22, 0, 0)
+stellarium.set_field_of_view(60)
+stellarium.set_gui_visible(False)
+stellarium.select_object_by_name(object_name='orion')
 
 sleep(3)
 
-constellation.set_property(
-    linedisplayed=True,
-    isolateselected=True
-)
+constellation.set_property(linedisplayed=True, isolateselected=True)
+
 sleep(3)
-constellation.set_property(
-    artdisplayed=True,
-    linedisplayed=False
-)
+constellation.set_property(artdisplayed=True, linedisplayed=False)
 sleep(3)
-stellarium.selectObjectByName(object_name='canis minor', mode='mark')
+stellarium.select_object_by_name(object_name='canis major', mode='center')
+
+time.setTimeRate(1)
 sleep(3)
 
-stellarium.setGUIVisible(True)
+stellarium.set_gui_visible(True)
 # stellarium.setFieldOfView(90)

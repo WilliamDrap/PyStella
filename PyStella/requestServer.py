@@ -11,10 +11,10 @@ class pyStellaRequestServer:
     def post(self,service,data=None):
         try:
             r = requests.post(self.request_url+service,data)
-            return r
         except:
             return None
-    
+        else:
+            return r
     def get(self,service):
         try:
             r = requests.get(self.request_url+service)
