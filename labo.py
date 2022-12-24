@@ -6,5 +6,5 @@ time        = PyStella.pyStellaTime
 stellarium  = PyStella.pyStellarium
 request     = PyStella.requestServer
 
-r = request.post('simbad/lookup',{"str":"HD51593"})
-print(r.text)
+r = request.get('simbad/lookup',{"str":"HD51593"})
+print(r)
